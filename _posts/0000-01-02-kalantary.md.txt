@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is Maryam's slide
+This is **Maryam**'s slide that has now *changed*
 Use the left arrow to go back!
